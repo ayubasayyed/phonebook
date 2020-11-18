@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160275602609",
+    "firebase_url": "https://phone-book-f17be.firebaseio.com",
+    "project_id": "phone-book-f17be",
+    "storage_bucket": "phone-book-f17be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160275602609:android:209d01a8a1169edc105690",
+        "android_client_info": {
+          "package_name": "com.example.phonebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160275602609-7opu60nv7iuho171v56np2n6t73hjp2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKrs4IvInyGsP2foJYo1Sf8laR_OgpSiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160275602609-7opu60nv7iuho171v56np2n6t73hjp2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
