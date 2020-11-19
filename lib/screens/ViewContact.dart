@@ -37,7 +37,7 @@ class _ViewContactState extends State<ViewContact> {
       throw 'Can\'t call $number';
     }
   }
-  smsAction(String number)async {
+  smsAction(String number) async {
     String url = 'sms:$number';
     if (await canLaunch(url)){
       await launch(url);
