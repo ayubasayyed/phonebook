@@ -1,7 +1,7 @@
 # phonebook
 
 A new Flutter project.
-learning git
+learning git with someone
 ## Getting Started
 
 This project is a starting point for a Flutter application.
